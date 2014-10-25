@@ -1,4 +1,5 @@
 HelloWorld
 ==========
 
-It is my frist project
+yeah ~ this is my frist project
+ni 
